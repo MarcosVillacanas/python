@@ -76,4 +76,8 @@ Impressed, the Elves issue you a challenge: determine the 30000000th number spok
 Given your starting numbers, what will be the 30000000th number spoken?
 
 Your puzzle answer was 1505722.
+
+Input: 
+
+0,8,15,2,12,1,4
 """
